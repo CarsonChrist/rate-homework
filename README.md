@@ -6,13 +6,14 @@
 ### Startup
 Enter the following terminal commands:
 * `az login`
+* `terraform init` (if needed)
 * `terraform validate`
 * `terraform plan`
 * `terraform apply`
 
 Enter 'yes' when prompted.
 ### Acessing the web page
-* Once the virtual machine has started, the server's public ip will be printed in the terminal.
+* Once the virtual machine has started, the server's public IP address will be printed in the terminal.
 * Paste the address into your browser to view the web page.
 ### Shutdown
 Enter the following terminal command:
